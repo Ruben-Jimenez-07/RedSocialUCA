@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RedsocialUCA</string>
+    <string name="RegistrarBTN">Registrarse</string>
+    <string name="LoginBTN">Iniciar Sesion</string>
+    <string name="RegistrarTXT">Registrate</string>
+
+    <!--aqui comenzamos atributos del registro-->
+
+    <string name="Nombre">Nombres</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Correo">Correo electronico</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Edad">Edad</string>
+
+    <string name="Registro">Registrar</string>
+
+</resources>
